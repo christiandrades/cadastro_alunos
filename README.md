@@ -44,7 +44,7 @@ Nome do Aluno: João Silva
 
 ## Sobre o autor
 
-Desenvolvido por [Christian Andrades](https://www.linkedin.com/in/christiandrades/).
+Desenvolvido por [Christian Andrade](https://www.linkedin.com/in/christiandrades/).
 
 - [Meu LinkedIn](https://www.linkedin.com/in/christiandrades/)
 - [Meu GitHub](https://github.com/christiandrades)
